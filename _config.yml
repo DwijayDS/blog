@@ -36,15 +36,15 @@ url: "https://dwijayds.github.io" # the base hostname & protocol for your site, 
 #
 baseurl: "/blog" # the subpath of your site, e.g. "/blog".
 
-email: shanbhag.d@outlook.com
+#email: shanbhag.d@outlook.com
 
 # Github and twitter are optional:
 minima:
   social_links:
     linkedin: https://www.linkedin.com/in/dwijayds/
     github: dwijayds
-    email: shanbhag.d@outlook.com
-    website: https://dwijayds.github.io
+    #email: shanbhag.d@outlook.com
+    #website: https://dwijayds.github.io
 
 # Set this to true to get LaTeX math equation support
 use_math: true
