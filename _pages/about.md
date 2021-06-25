@@ -14,7 +14,7 @@ If you are in Boston, MA and interested in Machine Learning, lets catch up.
 
 ### Contact me
 
-How about a Email me?  [@dwijayshanbhag](shanbhag.d@outlook.com)
+How about a Email me at shanbhag.d@outlook.com
 
 Wanna see my Github? [@dwijayds](https://github.com/DwijayDS)
 
