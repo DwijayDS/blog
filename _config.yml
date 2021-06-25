@@ -43,6 +43,8 @@ minima:
   social_links:
     linkedin: https://www.linkedin.com/in/dwijayds/
     github: dwijayds
+    email: shanbhag.d@outlook.com
+    website: https://dwijayds.github.io
 
 # Set this to true to get LaTeX math equation support
 use_math: true
