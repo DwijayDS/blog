@@ -1,11 +1,24 @@
 ---
 layout: page
-title: About Me
+title: About 
 permalink: /about/
 ---
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+I am a machine learning researcher, working in different domains. Currently I am exploring the field of Unsupervised Learning and Graph neural networks.
+
+
+If you are in Boston, MA and interested in Machine Learning, lets catch up.
 
 
 
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+
+### Contact me
+
+How about a Email me?  [@dwijayshanbhag](shanbhag.d@outlook.com)
+
+Wanna see my Github? [@dwijayds](https://github.com/DwijayDS)
+
+You can find my Website at [@DwijayDS](https://dwijayds.github.io)
+
+
+---
